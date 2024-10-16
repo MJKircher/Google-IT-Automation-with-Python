@@ -20,3 +20,9 @@
 - pdb
 - logging
 - matplotlib
+- PIL
+- requests
+- PycURL
+- Flask
+- Django
+- FastAPI
