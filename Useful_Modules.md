@@ -26,3 +26,9 @@
 - Flask
 - Django
 - FastAPI
+- json
+- yaml
+- locale
+- mimetypes
+- reports
+- emails
